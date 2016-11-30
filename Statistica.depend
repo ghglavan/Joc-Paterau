@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1452016748 source:c:\users\george\desktop\c\statistica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	"inteligenta.h"
+
+1452099271 c:\users\george\desktop\c\statistica\inteligenta.h
+	<math.h>
+
